@@ -1,7 +1,7 @@
-title: Mi portfolio
+title: Nacho Garcia
 subtitle: ivictivi
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Hola, mi nombre es Nacho Garcia. Trabajo como técnico de Herramientas de Automatización y Orquestación (Sysadmin). Actualmente estoy formándome como Data Engineer y especialista en Sistemas Big Data & IA
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,10 +14,6 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -139,11 +135,6 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
-      path: "gallery"
-    values:
-      permalink: /:path/:basename:output_ext
   -
     scope:
       path: ""
