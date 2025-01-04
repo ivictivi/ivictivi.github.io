@@ -10,9 +10,6 @@ layout: default
       </a>
       <h1 class="profile-name">{{ site.title }}</h1>
       <p class="profile-bio">{{ site.subtitle }}</p>
-      {% if site.github_username %} {%- include github_follow_button.html -%} {%
-      endif %}
-
       <p class="profile-links">
         {% if site.twitter_username %}
         <a
@@ -94,9 +91,15 @@ layout: default
     </div>
 
     <div class="card">
-      <h1>Skills</h1>
+      <h2>Hard Skills</h2>
+      <p>Technical Skills</p>
+      {%- include author_hard_skills.html -%}
+    </div>
 
-      {%- include author_skills.html -%}
+    <div class="card">
+      <h2>Soft Skills</h2>
+      <p>Profesional Skills</p>
+      {%- include author_soft_skills.html -%}
     </div>
 
     {% if site.wakatime_username %}
