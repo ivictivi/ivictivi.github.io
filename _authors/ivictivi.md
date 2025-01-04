@@ -2,7 +2,7 @@
 name: Nacho Garcia
 username: ivictivi
 site: http://ivictivi.github.io
-avatar: profile.jpeg
+avatar: ivictivi.jpeg
 bio: "Sysadmin, estudiante de Data Engineer y Sistemas Big Data & IA"
 email: nachogarcia.mcs@gmail.com
 social:
