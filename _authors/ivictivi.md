@@ -1,9 +1,9 @@
 ---
-name: Ignacio Garcia
+name: Nacho Garcia
 username: ivictivi
 site: http://ivictivi.github.io
 avatar: profile.jpeg
-bio: "Hola soy Ignacio Garcia. Trabajo como técnico de Herramientas de Automatización y Orquestación (Sysadmin). Actualmente estoy formándome como Data Engineer y especialista en Sistemas Big Data & IA"
+bio: "Sysadmin, estudiante de Data Engineer y Sistemas Big Data & IA"
 email: nachogarcia.mcs@gmail.com
 social:
   - title: "github"
