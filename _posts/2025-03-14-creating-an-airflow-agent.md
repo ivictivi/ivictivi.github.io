@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Apache Airflow 3.0: Novedades y Características"
+author: ivictivi
+categories: [airflow, data engineering, open source]
+tags: [airflow, airflow3, data pipeline, orchestration]
+---
+
 # 🚀 Airflow Monitoring Agent
 
 ## 📋 Descripción
